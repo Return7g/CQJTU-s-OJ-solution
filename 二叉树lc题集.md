@@ -1,0 +1,37 @@
+\# 二叉树力扣题目总结
+
+按照如下顺序刷力扣上的题目，相信会帮你在学习二叉树的路上少走很多弯路。以下每道题目在力扣题解区都有「代码随想录」的题解。
+
+1. [二叉树理论基础](https://mp.weixin.qq.com/s/_ymfWYvTNd2GvWvC5HOE4A)
+2. [二叉树：递归遍历](https://mp.weixin.qq.com/s/PwVIfxDlT3kRgMASWAMGhA)
+3. [二叉树：迭代法遍历（不统一方式）](https://mp.weixin.qq.com/s/c_zCrGHIVlBjUH_hJtghCg)
+4. [二叉树：迭代吗遍历（统一方式）](https://mp.weixin.qq.com/s/WKg0Ty1_3SZkztpHubZPRg)
+5. [102.二叉树的层序遍历](https://mp.weixin.qq.com/s/Gb3BjakIKGNpup2jYtTzog)
+6. [226.翻转二叉树](https://mp.weixin.qq.com/s/6gY1MiXrnm-khAAJiIb5Bg)
+7. [101.对称二叉树](https://mp.weixin.qq.com/s/Kgf0gjvlDlNDfKIH2b1Oxg)
+8. [104.二叉树的最大深度](https://mp.weixin.qq.com/s/guKwV-gSNbA1CcbvkMtHBg)
+9. [111.二叉树的最小深度](https://mp.weixin.qq.com/s/BH8-gPC3_QlqICDg7rGSGA)
+10. [222.完全二叉树的节点个数](https://mp.weixin.qq.com/s/2_eAjzw-D0va9y4RJgSmXw)
+11. [110.平衡二叉树](https://mp.weixin.qq.com/s/isUS-0HDYknmC0Rr4R8mww)
+12. [257.二叉树的所有路径](https://mp.weixin.qq.com/s/Osw4LQD2xVUnCJ-9jrYxJA)
+13. [递归中隐藏回溯](https://mp.weixin.qq.com/s/ivLkHzWdhjQQD1rQWe6zWA)
+14. [404.左叶子之和](https://mp.weixin.qq.com/s/gBAgmmFielojU5Wx3wqFTA)
+15. [513.找树左下角的值](https://mp.weixin.qq.com/s/MH2gbLvzQ91jHPKqiub0Nw)
+16. [112.路径总和](https://mp.weixin.qq.com/s/6TWAVjxQ34kVqROWgcRFOg)
+17. [106.从中序与后序遍历序列构造二叉树](https://mp.weixin.qq.com/s/7r66ap2s-shvVvlZxo59xg)
+18. [654.最大二叉树](https://mp.weixin.qq.com/s/1iWJV6Aov23A7xCF4nV88w)
+19. [617.合并二叉树](https://mp.weixin.qq.com/s/3f5fbjOFaOX_4MXzZ97LsQ)
+20. [700.二叉搜索树中的搜索](https://mp.weixin.qq.com/s/vsKrWRlETxCVsiRr8v_hHg)
+21. [98.验证二叉搜索树](https://mp.weixin.qq.com/s/8odY9iUX5eSi0eRFSXFD4Q)
+22. [530.二叉搜索树的最小绝对差](https://mp.weixin.qq.com/s/Hwzml6698uP3qQCC1ctUQQ)
+23. [501.二叉搜索树中的众数](https://mp.weixin.qq.com/s/KSAr6OVQIMC-uZ8MEAnGHg)
+24. [236.二叉树的最近公共祖先](https://mp.weixin.qq.com/s/n6Rk3nc_X3TSkhXHrVmBTQ)
+25. [235.二叉搜索树的最近公共祖先](https://mp.weixin.qq.com/s/Ja9dVw2QhBcg_vV-1fkiCg)
+26. [701.二叉搜索树中的插入操作](https://mp.weixin.qq.com/s/lwKkLQcfbCNX2W-5SOeZEA)
+27. [450.删除二叉搜索树中的节点](https://mp.weixin.qq.com/s/-p-Txvch1FFk3ygKLjPAKw)
+28. [669.修剪二叉搜索树](https://mp.weixin.qq.com/s/QzmGfYUMUWGkbRj7-ozHoQ)
+29. [108.将有序数组转换为二叉搜索树](https://mp.weixin.qq.com/s/sy3ygnouaZVJs8lhFgl9mw)
+30. [538.把二叉搜索树转换为累加树](https://mp.weixin.qq.com/s/hZtJh4T5lIGBarY-lZJf6Q)
+31. [二叉树总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)
+
+\------------
