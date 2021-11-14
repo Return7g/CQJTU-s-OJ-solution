@@ -1,7 +1,6 @@
 while True:
     n = int(input())
-    # 程序终止条件
-    if n == 0:
+    if n == 0:  # 程序终止条件
         break
     # 利用递推解题
     a, b = 1, 0
